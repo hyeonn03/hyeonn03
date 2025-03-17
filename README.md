@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=blur&color=black&height=200&section=header&text=Seunghyeon's%20Github!&fontSize=80" />	
+	<img src="https://capsule-render.vercel.app/api?type=blur&color=pink&height=200&section=header&text=Seunghyeon's%20Github!&fontSize=80" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -41,13 +41,3 @@
 	</a>
 	<br>
 </div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonn03&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=hyeonn03&show_icons=true"
-
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=hyeonn03)
-
-<br>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
