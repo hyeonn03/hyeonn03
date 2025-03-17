@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=Seunghyeon's%20Github!&fontSize=80" />	
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3>📚 Studying 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
