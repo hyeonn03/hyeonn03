@@ -30,7 +30,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://.tistory.com">
+	<a href="https://blog.naver.com/jjunguss">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="mailto:.co.kr">
